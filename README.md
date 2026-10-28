@@ -16,7 +16,6 @@ Oi! Eu sou a **Mariana**, estudante de **Ciência de Dados** na **Fatec**. Gosto
 - 📊 Estudo análise de dados, estatística, engenharia de dados e machine learning
 - ⚽ Uso dados esportivos para praticar o que aprendo, de testes estatísticos a visão computacional
 - 🏗️ Trabalho com arquiteturas em camadas (Bronze, Silver e Gold) e PySpark
-- 🎯 Em busca de oportunidades de estágio e projetos na área de dados
 
 ---
 
