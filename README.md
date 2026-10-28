@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Mariana%20Costa&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20de%20Dados%20%C2%B7%20Apaixonada%20por%20Futebol&descAlignY=60&descSize=16" alt="Banner" />
 
 <a href="https://www.linkedin.com/in/mcmello"><img src="https://img.shields.io/badge/LinkedIn-mcmello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/maricmello?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
+<a href="https://github.com/maricmello?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaricmello&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Repositórios" /></a>
 
 </div>
 
@@ -16,6 +16,7 @@ Oi! Eu sou a **Mariana**, estudante de **Ciência de Dados** na **Fatec**. Gosto
 - 📊 Estudo análise de dados, estatística, engenharia de dados e machine learning
 - ⚽ Uso dados esportivos para praticar o que aprendo, de testes estatísticos a visão computacional
 - 🏗️ Trabalho com arquiteturas em camadas (Bronze, Silver e Gold) e PySpark
+
 ---
 
 ## 🛠️ Tecnologias
@@ -63,7 +64,7 @@ Oi! Eu sou a **Mariana**, estudante de **Ciência de Dados** na **Fatec**. Gosto
 <br/>
 
 ![Seguidores](https://img.shields.io/github/followers/maricmello?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
-![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-19-1f6feb?style=for-the-badge&logo=github&labelColor=0d1117)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaricmello&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
 ![Visitas](https://komarev.com/ghpvc/?username=maricmello&label=Visitas&style=for-the-badge&color=1f6feb&labelColor=0d1117)
 
 </div>
