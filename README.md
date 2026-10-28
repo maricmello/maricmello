@@ -16,7 +16,6 @@ Oi! Eu sou a **Mariana**, estudante de **Ciência de Dados** na **Fatec**. Gosto
 - 📊 Estudo análise de dados, estatística, engenharia de dados e machine learning
 - ⚽ Uso dados esportivos para praticar o que aprendo, de testes estatísticos a visão computacional
 - 🏗️ Trabalho com arquiteturas em camadas (Bronze, Silver e Gold) e PySpark
-
 ---
 
 ## 🛠️ Tecnologias
@@ -51,12 +50,21 @@ Oi! Eu sou a **Mariana**, estudante de **Ciência de Dados** na **Fatec**. Gosto
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🐍 Meus dias de código
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maricmello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricmello&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maricmello/maricmello/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maricmello/maricmello/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/maricmello/maricmello/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+![Seguidores](https://img.shields.io/github/followers/maricmello?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-19-1f6feb?style=for-the-badge&logo=github&labelColor=0d1117)
+![Visitas](https://komarev.com/ghpvc/?username=maricmello&label=Visitas&style=for-the-badge&color=1f6feb&labelColor=0d1117)
 
 </div>
 
